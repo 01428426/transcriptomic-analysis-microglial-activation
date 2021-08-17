@@ -6,8 +6,11 @@ This project forms part of the UKDRI Multi-’omics Atlas Project (MAP), an init
 
 In this study, we aim to define microglia transcriptome changes in AD using snRNAseq data. Can we robustly identify DAM in humans? We bring forward an optimized study
 design and scRNAseq analytical workflow consisting of three parallel approaches
-(1) direct clustering
+
+(1) direct clustering 
+
 (2) guided clustering
+
 (3) classification
 
 [methods_figure.pdf](https://github.com/01428426/MSc_Thesis/files/6999151/methods_figure.pdf)
