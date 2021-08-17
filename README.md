@@ -13,7 +13,7 @@ design and scRNAseq analytical workflow consisting of three parallel approaches
 
 (3) classification
 
-![methods_figure 001](https://user-images.githubusercontent.com/89073540/129710534-a53eb128-458c-40d4-a322-84e7ff745b5d.png)
+[methods_figure2.pdf](https://github.com/01428426/MSc_Thesis/files/7001823/methods_figure2.pdf)
 
 
 
