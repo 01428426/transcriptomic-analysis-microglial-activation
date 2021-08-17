@@ -13,10 +13,6 @@ design and scRNAseq analytical workflow consisting of three parallel approaches
 
 (3) classification
 
-[methods_figure2.pdf](https://github.com/01428426/MSc_Thesis/files/7001823/methods_figure2.pdf)
-
-
-
 The first approach replicates a typical scRNAseq workflow, yet is optimized for subtypes analysis of large datasets.
 The second one leverages knowledge from mouse studies in an original way.
 
