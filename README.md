@@ -1,4 +1,4 @@
-# Clustering and classification approaches to support transcriptomic analysis of microglialactivation in human Alzheimer’s Disease
+# Clustering and classification approaches to support transcriptomic analysis of microglial activation in human Alzheimer’s Disease
 
 This repository contains all the scripts used in "Clustering and classification approaches to support transcriptomic analysis of microglial activation in human Alzheimer’s Disease", a research project as part of the Msc Health Data Analytics & Machine learning at Imperial College London.
 
